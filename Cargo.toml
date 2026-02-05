@@ -2,10 +2,11 @@
 name = "pong"
 version = "0.1.0"
 authors = ["dongle"]
-edition = "2026"
+edition = "2024"
 
 [dependencies]
 agb = "0.22.6"
+agb_tracker = "0.22.6"
 
 [profile.dev]
 opt-level = 3
